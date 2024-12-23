@@ -8,7 +8,7 @@ public class SpringBootHogwartsArtifactsOnlineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootHogwartsArtifactsOnlineApplication.class, args);
-		System.out.println("Testing JINTO")
+		System.out.println("Testing JINTO - Edited")
 	}
 
 }
